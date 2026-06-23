@@ -24,10 +24,10 @@ nama:"Bandar Lampung",
 koordinat:[-5.429,105.261],
 potensi:`
 <b>Bandar Lampung</b><br>
-📍 Peta UMKM<br>
-📍 Peta Kepadatan Penduduk<br>
-📍 Peta Infrastruktur<br>
-📍 Peta Fasilitas Umum
+📍 Peta Administrasi<br>
+📍 Peta Toponimi/Objek Dan Tempat Penting<br>
+📍 Peta Rawan Banjir<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -36,9 +36,9 @@ nama:"Metro",
 koordinat:[-5.113,105.307],
 potensi:`
 <b>Metro</b><br>
-📍 Peta Pendidikan<br>
-📍 Peta UMKM<br>
-📍 Peta Kependudukan
+📍 Peta Administrasi<br>
+📍 Peta Toponimi/Objek Dan Tempat Penting<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -47,10 +47,11 @@ nama:"Lampung Selatan",
 koordinat:[-5.562,105.547],
 potensi:`
 <b>Lampung Selatan</b><br>
-📍 Peta Wisata<br>
-📍 Peta Tsunami<br>
+📍 Peta Objek Wisata<br>
+📍 Peta Jalur Evakuasi Tsunami<br>
 📍 Peta Potensi Desa<br>
-📍 Peta Penggunaan Lahan
+📍 Peta Shelter Evakuasi Tsunami<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -61,8 +62,8 @@ potensi:`
 <b>Lampung Timur</b><br>
 📍 Peta Pertanian<br>
 📍 Peta Tambak<br>
-📍 Peta Peternakan<br>
-📍 Peta UMKM
+📍 Peta Garis<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -72,8 +73,10 @@ koordinat:[-4.900,105.200],
 potensi:`
 <b>Lampung Tengah</b><br>
 📍 Peta Pertanian<br>
-📍 Peta Irigasi<br>
-📍 Peta Potensi Desa
+📍 Peta Tambak<br>
+📍 Peta Garis<br>
+📍 Peta Potensi Desa<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -82,9 +85,10 @@ nama:"Lampung Utara",
 koordinat:[-4.830,104.900],
 potensi:`
 <b>Lampung Utara</b><br>
-📍 Peta Perkebunan<br>
 📍 Peta Pertanian<br>
-📍 Peta Penggunaan Lahan
+📍 Peta Garis<br>
+📍 Peta Potensi Desa<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -93,9 +97,9 @@ nama:"Lampung Barat",
 koordinat:[-5.037,104.076],
 potensi:`
 <b>Lampung Barat</b><br>
-📍 Peta Wisata Alam<br>
-📍 Peta Longsor<br>
-📍 Peta Perkebunan Kopi
+📍 Peta Objek Wisata Alam<br>
+📍 Peta Kerawanan Longsor<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -104,7 +108,7 @@ nama:"Way Kanan",
 koordinat:[-4.433,104.600],
 potensi:`
 <b>Way Kanan</b><br>
-📍 Peta Pertanian<br>
+📍 Peta Garis<br>
 📍 Peta Perkebunan<br>
 📍 Peta Administrasi Desa
 `
@@ -117,7 +121,8 @@ potensi:`
 <b>Tulang Bawang</b><br>
 📍 Peta Pertanian<br>
 📍 Peta Tambak<br>
-📍 Peta Potensi Desa
+📍 Peta Potensi Desa<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -127,18 +132,20 @@ koordinat:[-4.520,105.090],
 potensi:`
 <b>Tulang Bawang Barat</b><br>
 📍 Peta Pertanian<br>
-📍 Peta Infrastruktur Desa
+📍 Peta Administrasi Desa<br>
+📍 Dan Lain Lain
 `
 },
 
 {
 nama:"Mesuji",
-koordinat:[-4.000,105.900],
+koordinat:[ -4.027014,105.382423],
 potensi:`
 <b>Mesuji</b><br>
-📍 Peta Pertanian<br>
+📍 Peta Tambak<br>
 📍 Peta Perkebunan<br>
-📍 Peta Penggunaan Lahan
+📍 Peta Penggunaan Lahan<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -149,8 +156,9 @@ potensi:`
 <b>Pesawaran</b><br>
 📍 Peta Wisata<br>
 📍 Peta Potensi Desa<br>
-📍 Peta UMKM<br>
-📍 Peta Pesisir
+📍 Peta Kerawanan Longsor<br>
+📍 Peta Garis Pantai<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -159,9 +167,10 @@ nama:"Pringsewu",
 koordinat:[-5.358,104.975],
 potensi:`
 <b>Pringsewu</b><br>
-📍 Peta UMKM<br>
-📍 Peta Pertanian<br>
-📍 Peta Fasilitas Umum
+📍 Peta Wisata<br>
+📍 Peta Potensi Desa<br>
+📍 Peta Kerawanan Longsor<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -170,9 +179,11 @@ nama:"Tanggamus",
 koordinat:[-5.470,104.650],
 potensi:`
 <b>Tanggamus</b><br>
-📍 Peta Longsor<br>
-📍 Peta Wisata Alam<br>
-📍 Peta Perkebunan Kopi
+📍 Peta Wisata<br>
+📍 Peta Potensi Desa<br>
+📍 Peta Kerawanan Longsor<br>
+📍 Peta Garis Pantai<br>
+📍 Dan Lain Lain
 `
 },
 
@@ -181,9 +192,13 @@ nama:"Pesisir Barat",
 koordinat:[-5.193,103.939],
 potensi:`
 <b>Pesisir Barat</b><br>
-📍 Peta Tsunami<br>
-📍 Peta Wisata Pantai<br>
-📍 Peta Pesisir
+📍 Peta Wisata<br>
+📍 Peta Potensi Desa<br>
+📍 Peta Kerawanan Longsor<br>
+📍 Peta Garis Pantai<br>
+📍Peta Jalur Evakuasi Tsunami<br>
+📍 Peta Shelter Evakuasi Tsunami<br>
+📍 Dan Lain Lain
 `
 }
 
