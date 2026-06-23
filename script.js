@@ -196,7 +196,7 @@ potensi:`
 📍 Peta Potensi Desa<br>
 📍 Peta Kerawanan Longsor<br>
 📍 Peta Garis Pantai<br>
-📍Peta Jalur Evakuasi Tsunami<br>
+📍 Peta Jalur Evakuasi Tsunami<br>
 📍 Peta Shelter Evakuasi Tsunami<br>
 📍 Dan Lain Lain
 `
