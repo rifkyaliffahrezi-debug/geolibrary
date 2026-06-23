@@ -137,3 +137,23 @@ color:white;
 text-align:center;
 padding:20px;
 }
+.contact-buttons{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    flex-wrap:wrap;
+    margin-top:20px;
+}
+
+.contact-btn{
+    display:inline-block;
+    padding:15px 30px;
+    text-decoration:none;
+    color:white;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.wa{
+    background:#25D366;
+}
